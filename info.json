@@ -1,0 +1,6 @@
+{
+  "component": "seed-project",
+  "version": "0.3.0",
+  "environment": "UAT",
+  "instance": "GitHub"
+}
